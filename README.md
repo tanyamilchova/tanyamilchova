@@ -2,11 +2,11 @@
 <h1 align="center">Hi 👋, I'm Tanya Milchova</h1>
 <h3 align="center">A passionate backend developer from Bulgaria</h3>
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **Java** and **JavaScript**
 
 - 📫 How to reach me **margot11margot11@gmail.com**
 
-- 📄 Know about my experiences [Java core,Spring MVC project](Java core,Spring MVC project)
+- 📄 Know about my experiences [Java core,Spring MVC project](Java core,Spring MVC projects)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
