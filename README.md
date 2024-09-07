@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Tanya Milchova</h1>
 <h3 align="center">A passionate backend developer from Bulgaria</h3>
 
-- 🌱 I’m currently learning **Java** and **JavaScript**
+- 🌱 I’m currently learning **Java**, **Automation Testing in Java** and **JavaScript**
 
 - 📫 How to reach me **margot11margot11@gmail.com**
 
