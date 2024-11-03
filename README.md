@@ -6,7 +6,7 @@
 
 - 📫 How to reach me **margot11margot11@gmail.com**
 
-- 📄 Know about my experiences: Java, Spring MVC projects,REST, MySQL, Java Script, React, Selenium Testing in Java
+- 📄 Know about my experiences: Java, Spring MVC projects,REST, MySQL, Java Script, React, Selenium Testing in Java, HTML, CSS
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
