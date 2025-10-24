@@ -20,25 +20,29 @@ I’m currently learning and working with:
 
 ### 💻 Skills & Technologies
 **Languages & Frameworks:**  
-![Java](https://www.vectorlogo.zone/logos/java/java-ar21.svg) 
-![Spring](https://www.vectorlogo.zone/logos/springio/springio-icon.svg)  
-![JavaScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg)  
-![React](https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg)  
-![HTML5](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg)  
-![CSS3](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg)
+<p align="left">
+  <img src="https://www.vectorlogo.zone/logos/java/java-ar21.svg" alt="java" width="25" height="25"/>
+  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="25" height="25"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="25" height="25"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="25" height="25"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="25" height="25"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="25" height="25"/>
+</p>
 
 **Databases & Tools:**  
-![MySQL](https://www.vectorlogo.zone/logos/mysql/mysql-official.svg)  
-![MongoDB](https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg)  
-![Postman](https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg)  
+<p align="left">
+  <img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" alt="mysql" width="25" height="25"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="25" height="25"/>
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="25" height="25"/>
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="25" height="25"/>
+</p>
 
 **Testing & Automation:**  
-![Selenium](https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg)  
-![JUnit](https://junit.org/junit5/assets/img/junit5-logo.png)  
-![Mockito](https://avatars.githubusercontent.com/u/2054002?s=200&v=4)  
-
-**Version Control & Others:**  
-![Git](https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg)  
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" alt="selenium" width="25" height="25"/>
+  <img src="https://junit.org/junit5/assets/img/junit5-logo.png" alt="junit" width="25" height="25"/>
+  <img src="https://avatars.githubusercontent.com/u/2054002?s=200&v=4" alt="mockito" width="25" height="25"/>
+</p>
 
 ---
 
@@ -58,9 +62,9 @@ I’m currently learning and working with:
 
 ---
 
-<h3 align="left">Connect with Me:</h3>
+### 🔗 Connect with Me
 <p align="left">
   <a href="https://discord.gg/TanyaMilchova#1123" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="TanyaMilchova#1123" height="30" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="TanyaMilchova#1123" width="25" height="25"/>
   </a>
 </p>
