@@ -7,7 +7,7 @@
 I’m currently learning and working with:  
 - **Java** & **Spring Boot**  
 - **JavaScript** & **React**  
-- **Automation Testing** with **Selenium** in Java  
+- **Automation Testing** with **REST Assured** and **Selenium** in Java  
 - **REST APIs** & **Database Management (MySQL, MongoDB)**  
 
 ---
@@ -50,7 +50,7 @@ I’m currently learning and working with:
 - Developing **Spring MVC applications** and REST APIs  
 - Working with **MySQL** and **MongoDB** databases  
 - Frontend basics with **React, HTML, CSS, JavaScript**  
-- **Automation Testing** using Selenium in Java  
+- **Automation Testing** using **REST Assured** and **Selenium** in Java  
 - Writing **unit tests** with JUnit and Mockito  
 
 ---
